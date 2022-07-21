@@ -1,0 +1,6 @@
+{
+
+
+               "ip":"A_DKiller22tvzS.aternos.me",
+               "port":"35391",
+               "name":"A_DKiller" 
